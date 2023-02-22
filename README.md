@@ -12,11 +12,7 @@
 
 <div align="center">
     <br>
-    <a href="https://lenster.xyz"><b>lenster.xyz »</b></a>
-    <br><br>
-    <a href="https://discord.gg/B8eKhSSUwX"><b>Discord</b></a>
-    •
-    <a href="https://github.com/lensterxyz/lenster/issues/new"><b>Issues</b></a>
+    <a href="https://lensborealis.xyz "><b>lensborealis.xyz  »</b></a>
 </div>
 
 ## 🌿 About Lens Borealis
